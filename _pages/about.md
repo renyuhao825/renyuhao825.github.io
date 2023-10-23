@@ -16,7 +16,7 @@ In UNSAT Lab, I belong to a seven-member group focusing on soil - shield machine
 
 Please find my publication list [here](https://renyuhao825.github.io/publications/), or through [ResearchGate](https://www.researchgate.net/profile/Yuhao-Ren-6), or [Google Scholar](https://scholar.google.com/citations?user=qNqzVTkAAAAJ&hl=en).
 
-I am looking for a 2024 fall PhD position! Please feel free to contact me via **renyuhao@hnu.edu.cn** or **WeChat at 18983815201**, if you are interested in me.
+I am looking for a 2024 fall PhD position! Please feel free to contact me via **renyuhao@hnu.edu.cn** or **WeChat: sharp825**.
 
 *****
 
