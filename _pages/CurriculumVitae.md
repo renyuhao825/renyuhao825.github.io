@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /CurriculumVitae/
 author_profile: true
 redirect_from:
   - /resume
@@ -58,9 +58,19 @@ Experience
   * **Surrogate model development:** We are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for the response of underground structures under dynamical loading
   * **Transfer learning of surrogate model:** We implemented transfer learning methods for maintaining the effectiveness of the developed models under different geological conditions 
 
+******
 
 Honors and Awards  
 ======
-1. **Chinese National Encouragement Scholarship** - May, 2019 
-2. **First-class Prize** of Chongqing Mathematical Contest in Modeling- September, 2019 
-3. **S-award** of International Mathematical Contest in Modeling - March, 2020
+* **Chinese National Encouragement Scholarship** - May, 2019 
+* **First-class Prize** of Chongqing Mathematical Contest in Modeling- September, 2019 
+* **S-award** of International Mathematical Contest in Modeling - March, 2020
+
+*****
+
+Skills
+======
+* **Programming**: Python, Matlab, Opensees, LaTex
+* I developed my private deep learning and scientific machine learning code repository based on Pytorch.
+* **Knowledge**: Scientific machine learning, Deep learning, Soil Mechanics
+* **Languages**: Chinese (native), English (fluent, passed IELTS with overall 7.0)

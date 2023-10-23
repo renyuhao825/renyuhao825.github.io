@@ -7,8 +7,8 @@ main:
 #    url: /research/    
     
 
-  - title: "CV"
-    url: /cv/
+  - title: "CurriculumVitae"
+    url: /CurriculumVitae/
 
   - title: "Photos"
     url: /photos/
