@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,8 @@ Education
 * M.S. in Hunan University, Civil Engineering (**[ARWU Top 15 Academic Subjects Worldwide](https://www.shanghairanking.com/rankings/gras/2022/RS0211)**), 2024
 * B.S. in Chongqing Jiaotong University, Civil Engineering, 2021
 
+*****
+
 Publication 
 ======
 1. **Ren, Y.**, Zhang, C.\*, Zhu, M., Chen, R., Wang, J. (2023). Significance and formulation of ground loss in tunnelinginduced settlement prediction: a data-driven study. *Acta Geotechnica*, 1-16. (**Impact Factor : 6.0**) 
@@ -26,6 +28,8 @@ Publication
 
 \*:Supervisor 
 
+*****
+
 Experience 
 ======
 * **Physics-informed inverse modeling for SWRC and HCF**
@@ -33,8 +37,6 @@ Experience
   * **Validation:** Simulated data and experiment data are utilized for demonstrating the effectiveness of the proposed framework 
 ![pinn](http://renyuhao825.github.io/images/pinn.png)
 <center> Structure of the proposed framework. More details will be posted in an official release. </center>
-
-
 
 * **Quality index for construction big data in EPB shield tunneling**
   * **Quality index development:** Pioneer the first quality measure for construction big data in EPB shield tunneling, which consists of three components, i.e., representativeness, diversity, and informativeness
@@ -51,8 +53,6 @@ Experience
 * **Transfer learning for chamber pressure prediction in EPB shield tunneling**
   * **Transfer learning framework for chamber pressure prediction:** Introduced the transfer learning methods, e.g., fine-tuning, CORAL, and MMD, for enhancing the generalization ability of existing models in predicting chamber pressure from different projects
   * **Performance of the transfer learning frameworks:** Utilize two filed datasets from Tianjin City and Changsha City to quantitatively demonstrate the effectiveness of the selected transfer learning methods in the few-shots problem of chamber pressure prediction 
-![tl](http://renyuhao825.github.io/images/tl.png)
-<center> Transfer learning frameworks for predicting EPB chamber pressure. </center>
 
 * **Surrogate model for structural response under dynamical loading**
   * **Surrogate model development:** We are the first to introduce deep neural operators e.g., DeepONet and FNO, into surrogate modeling for the response of underground structures under dynamical loading
