@@ -8,7 +8,7 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" class="img-thumbnail">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="u-photo" alt="{{ author.name }}">
     {% endif %}
@@ -16,13 +16,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}
-    <p class="author__bio" style="margin-top: 0.3em">M.Sc. Student</p>
-    <p class="author__bio" style="margin-top: 0.3em">College of Civil Engineering</p>
-    <p class="author__bio" style="margin-top: 0.3em">Hunan University</p>
-    <p class="author__bio" style="margin-top: 0.3em">Changsha, China</p>
-    <p class="author__emailadress" style="margin-bottom: 0.6em">
-  {% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
