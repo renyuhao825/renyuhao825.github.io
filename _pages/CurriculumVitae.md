@@ -71,6 +71,5 @@ Honors and Awards
 Skills
 ======
 * **Programming**: Python, Matlab, Opensees, LaTex
-* I developed my private deep learning and scientific machine learning code repository based on Pytorch.
 * **Knowledge**: Scientific machine learning, Deep learning, Soil Mechanics
 * **Languages**: Chinese (native), English (fluent, passed IELTS with overall 7.0)

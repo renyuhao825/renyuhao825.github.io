@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- I am now a master's student in [Department of Civil Engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
-- Prior to entering Hunan University, I got my bachelor's degree from [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), supervised by Prof. Shiyong He.
-- My research interests cover the development of physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning for identifying the constitutive model and surrogating the dynamical response of structures.
-- I am looking for a PhD position! Please feel free to contact me via **renyuhao@hnu.edu.cn** or **WeChat at 18983815201**, if you are interested in me.
+I am now a M.Sc student in College of Civil Engineering at Hunan University, supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao). I joined Zhang’s [UNSAT Lab](https://chaozhanghnu.github.io/) in 2021, and obtained my B.S. degree in 2020 from Chongqing Jiaotong University. 
+
+My passion lies in developing physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning for identifying the constitutive model and surrogating the dynamical response of structures.
+
+Please find my publication list [here](https://renyuhao825.github.io/publications/), or through [ResearchGate](https://www.researchgate.net/profile/Yuhao-Ren-6), or [Google Scholar](https://scholar.google.com/citations?user=qNqzVTkAAAAJ&hl=en).
+
+In UNSAT Lab, I belong to a seven-member group focusing on soil - shield machine interaction and its intelligent control. I assist Prof. Zhang in managing this group and work closely with the other three members: Yangkai Gong, Ziheng Geng, Yu Zhang, Jihao Yuan, Yi Dai and Guodong Wu, who are the most incredible, talented, and beautiful partners ever.
+
+I am looking for a PhD position! Please feel free to contact me via **renyuhao@hnu.edu.cn** or **WeChat at 18983815201**, if you are interested in me.
 
 *****
 
