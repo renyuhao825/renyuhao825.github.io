@@ -16,9 +16,13 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">M.Sc. student</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">College of Civil Engineering</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">Hunan University</p>{% endif %}
+    {% if author.bio %}
+    <p class="author__bio" style="margin-top: 1em">M.Sc. Student</p>
+    <p class="author__bio">College of Civil Engineering</p>
+    <p class="author__bio">Hunan University</p>
+    <p class="author__bio" style="margin-bottom: 1em">Changsha, China</p>
+    <p class="author__emailadress" style="margin-bottom: 0.6em">
+  {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
