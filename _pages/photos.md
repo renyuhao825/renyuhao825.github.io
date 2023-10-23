@@ -4,7 +4,9 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
-<img src="http://renyuhao825.github.io/images/conference.jpg" width="50%" height="50%">
+<div align=center>
+    <img src="http://renyuhao825.github.io/images/conference.jpg" width="50%" height="50%" >
+</div>
 <center>I attended the National Highway Tunnel Academic Annual Conference.I'm the second from the left.</center>
 
 ![summer camp](http://renyuhao825.github.io/images/summercamp.jpg)

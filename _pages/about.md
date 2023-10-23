@@ -9,11 +9,8 @@ redirect_from:
 ---
 
 - I am now a master's student in [Department of Civil Engineering](http://ce.hnu.edu.cn/index.htm) at [Hunan University](https://www.hnu.edu.cn/index.htm), supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
-
 - Prior to entering Hunan University, I got my bachelor's degree from [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), supervised by Prof. Shiyong He.
-
 - My research interests cover the development of physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning for identifying the constitutive model and surrogating the dynamical response of structures.
-
 - I am looking for a PhD position! Please feel free to contact me via **renyuhao@hnu.edu.cn** or **WeChat at 18983815201**, if you are interested in me.
 
 *****
@@ -34,4 +31,3 @@ Recent News
 
 - **Paper (11/2022):** A collaborative paper with Ziheng titled ["A Kriging-Random Forest Hybrid Model for Real-time Ground Property Prediction during Earth Pressure Balance Shield Tunneling"](https://arxiv.org/abs/2305.05128#:~:text=A%20kriging%2Drandom%20forest%20hybrid%20model%20is%20developed%20for%20real,selection%20thereby%20mitigate%20construction%20risks.) can be finded in arxiv.
 
-<a href="https://info.flagcounter.com/O2yJ"><img src="https://s11.flagcounter.com/count2/O2yJ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
