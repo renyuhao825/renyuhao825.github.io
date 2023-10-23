@@ -11,7 +11,7 @@ redirect_from:
 I am now a M.Sc student in College of Civil Engineering at Hunan University, supervised by Prof. [Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao). I joined Zhang’s [UNSAT Lab](https://chaozhanghnu.github.io/) in 2021, and obtained my B.S. degree in 2021 from Chongqing Jiaotong University. 
 
 My passion lies in developing physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning for identifying the constitutive model and surrogating the dynamical response of structures.
-
+ 
 In UNSAT Lab, I belong to a seven-member group focusing on soil - shield machine interaction and its intelligent control. I assist Prof. Zhang in managing this group and work closely with the other six members: Yangkai Gong, Ziheng Geng, Yu Zhang, Jihao Yuan, Yi Dai and Guodong Wu, who are the most incredible, talented, and beautiful partners ever.
 
 Please find my publication list [here](https://renyuhao825.github.io/publications/), or through [ResearchGate](https://www.researchgate.net/profile/Yuhao-Ren-6), or [Google Scholar](https://scholar.google.com/citations?user=qNqzVTkAAAAJ&hl=en).
