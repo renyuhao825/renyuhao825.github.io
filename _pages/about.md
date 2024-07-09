@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am now a M.Sc. student in College of Civil Engineering at Hunan University, supervised by [Prof. Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao). I joined Prof. Zhang’s [UNSAT Lab](https://chaozhanghnu.github.io/) in 2021, and obtained my B.S. degree in 2021 from Chongqing Jiaotong University. I will move to the University of Virginia in 2024 Fall, and continue my PhD research under the supervision of [Prof. Zhen Liu](https://engineering.virginia.edu/faculty/zhen-leo-liu).
+I am now a PhD student in the Department of Civil Engineering at Virginia University, supervised by [Prof. Zhen Liu](https://engineering.virginia.edu/faculty/zhen-leo-liu). Before I joined UVA, I got my master's and bachelor's degrees from Hunan University and Chongqing Jiaotong University. At HNU, I was supervised by [Prof. Chao Zhang](https://grzy.hnu.edu.cn/site/index/zhangchao).
 
 My passion lies in developing physics-informed data-driven modeling methodology for engineering practice. Recently, I focused on utilizing scientific machine learning tools, particularly physics-informed neural networks, and operator learning for identifying the constitutive model and surrogating the dynamical response of structures.
-
-In UNSAT Lab, I belong to a seven-member group focusing on soil - shield machine interaction and its intelligent control. I assist Prof. Zhang in managing this group and work closely with the other six members: Yangkai Gong, Ziheng Geng, Yu Zhang, Yi Dai and Guodong Wu, who are the most incredible, talented, and beautiful partners ever.
 
 Please find my publication list [here](https://renyuhao825.github.io/publications/), or through [ResearchGate](https://www.researchgate.net/profile/Yuhao-Ren-6), or [Google Scholar](https://scholar.google.com/citations?user=qNqzVTkAAAAJ&hl=en).
 
@@ -22,6 +20,8 @@ Feel free to communicate about research works via **renyuhao@hnu.edu.cn** or **W
 
 Recent News
 ======
+
+**Graduation:(06/2024)** I graduated from Hunan University and obtained my master's degree.
 
 **Test (10/2023):** I pass the IELTS test with 7.0 overall (Listening 8.0, Reading 7.0, Writing 6.0, Speaking 6.0).
 
